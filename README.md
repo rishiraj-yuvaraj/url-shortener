@@ -46,7 +46,7 @@
 
 ### Installation :
 
-- Step 1: Fork [this repo](https://github.com/SandeepKrSuman/url-shortener).
+- Step 1: Fork [this repo](https://github.com/rishiraj-yuvaraj/url-shortener).
 - Step 2: Clone your forked version of this repo locally. To clone, go to your command line / terminal, cd over to an appropriate directory and type in `git clone https://github.com/<your username>/url-shortener.git`.
 - Step 3: `cd url-shortener`
 - Step 4: While in the `url-shortener` directory, install the frontend dependencies using `npm install` or `yarn`.
@@ -69,14 +69,4 @@
 
 <p align='center'>If you like this project do show some love by giving this repo a 🌟.</p>
   
-<br>
 
-### License
-
-[MIT](LICENSE) © [SandeepKrSuman](https://github.com/SandeepKrSuman)
-
-<br>
-
-### Developer 😎
-
-Made with ❤ by [SandeepKrSuman](https://github.com/SandeepKrSuman).
